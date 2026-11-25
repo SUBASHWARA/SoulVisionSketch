@@ -1,6 +1,5 @@
 # SoulVisionSketch
 Focus about Digital_Media_Vision
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
